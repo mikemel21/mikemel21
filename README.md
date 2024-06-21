@@ -15,6 +15,12 @@
 </div>
 
 ---
+
+<div id="Projects">
+  <h1>Projects</h1>
+</div>
+
+---
 <div id="langs-tools">
   <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/823a27cd-8e84-4e8b-bd3e-df515472eb53" width="40" height="40"/> Languages and Tools</h1>
 </div>
