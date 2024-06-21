@@ -17,7 +17,7 @@
 ---
 
 <div id="Projects">
-  <h1>Projects</h1>
+  <h1><img src="![image](https://github.com/mikemel21/mikemel21/assets/91397480/9cbe2864-c803-4a45-9859-e85147fdf7f4)" width="40" height="40"/>Projects</h1>
 </div>
 
 ---
