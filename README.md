@@ -18,6 +18,36 @@
 
 <div id="Projects">
   <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/9cbe2864-c803-4a45-9859-e85147fdf7f4" width="40" height="40"/> Projects</h1>
+  
+  <h2>Games</h2>
+  <ul>
+    <li><a href="https://github.com/mikemel21/CIS343-Asteroids-Clone">Asteroids Clone</a></li>
+    <li><a href="https://github.com/mikemel21/Tic-Tac-Toe">Tic Tac Toe</a></li>
+    <li><a href="https://github.com/mikemel21/Project2GH">2048</a></li>
+    <li><a href="https://github.com/mikemel21/CIS343-GVZork">Zork</a></li>
+  </ul>
+
+  <h2>Web Apps</h2>
+  <ul>
+  <li><a href="https://github.com/mikemel21/Weather-App">Weather App</a></li>
+  </ul>
+
+  <h2>Data Science</h2>
+  <ul>
+    <li><a href="https://github.com/mikemel21/CIS352-Final-Project">Stroke Detection Classifier</a></li>
+  </ul>
+
+  <h2>Networking</h2>
+  <ul>
+    <li><a href="https://github.com/mikemel21/FTP-Server">FTP Server</a></li>
+  </ul>
+  <h2>Misc</h2>
+  <ul>
+  <li><a href="https://github.com/mikemel21/CIS343PWAVFileReverser">WAV File Reverser</a></li>
+  <li><a href="https://github.com/mikemel21/CIS343-logo">Logo Programming Language Clone</a></li>
+  <li><a href="https://github.com/mikemel21/static-site-generator">Static Site Generator</a></li>
+  <li><a href="https://github.com/mikemel21/bookbot">Bookbot</a></li>
+  </ul>
 </div>
 
 ---
