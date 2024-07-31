@@ -9,12 +9,24 @@
 </div>
 
 ---
-
-<div id="About-Me">
-  <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/a996193a-cd72-4b30-a5a4-3d65808b0d77" width="40" height="40"/> About Me</h1>
+<div id="langs-tools">
+  <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/823a27cd-8e84-4e8b-bd3e-df515472eb53" width="40" height="40"/> Languages and Tools</h1>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+  
 </div>
 
----
+<!-- div id="About-Me">
+  <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/a996193a-cd72-4b30-a5a4-3d65808b0d77" width="40" height="40"/> About Me</h1>
+</div -->
 
 <div id="Projects">
   <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/9cbe2864-c803-4a45-9859-e85147fdf7f4" width="40" height="40"/> Projects</h1>
@@ -50,9 +62,6 @@
   </ul>
 </div>
 
----
-<div id="langs-tools">
-  <h1><img src="https://github.com/mikemel21/mikemel21/assets/91397480/823a27cd-8e84-4e8b-bd3e-df515472eb53" width="40" height="40"/> Languages and Tools</h1>
-</div>
+
 
 
